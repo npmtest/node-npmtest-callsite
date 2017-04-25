@@ -1,6 +1,6 @@
 # npmtest-callsite
 
-#### test coverage for  callsite (v1.0.0)  [![npm package](https://img.shields.io/npm/v/npmtest-callsite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-callsite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-callsite.svg)](https://travis-ci.org/npmtest/node-npmtest-callsite)
+#### basic test coverage for  callsite (v1.0.0)  [![npm package](https://img.shields.io/npm/v/npmtest-callsite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-callsite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-callsite.svg)](https://travis-ci.org/npmtest/node-npmtest-callsite)
 
 #### access to v8's CallSites
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-callsite/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-callsite/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-callsite/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-callsite/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-callsite/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-callsite/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-callsite/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-callsite/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-callsite/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-callsite/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-callsite/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-callsite/build/coverage.html/index.html)
 
@@ -65,7 +65,8 @@
     ],
     "name": "callsite",
     "optionalDependencies": {},
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
